@@ -3,7 +3,7 @@
   "files": [
     {
       "name": "sysmon_configure.cmd",
-      "sha256": "0D8A1684922D433D8E1847D8DE36C9E735A6C746DCCF54BBD3CDCD09B52328CB",
+      "sha256": "d8a1684922d433d8e1847d8de36c9e735a6c746dccf54bbd3cdcd09b52328cb",
       "url": "https://raw.githubusercontent.com/wazuhdomtest/wazuh/main/AR/sysmon_configure.cmd"
     },
     {
