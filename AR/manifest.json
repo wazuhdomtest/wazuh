@@ -1,1 +1,15 @@
-
+{
+  "version": "2026-01-30T12:00:00Z",
+  "files": [
+    {
+      "name": "sysmon_configure.cmd",
+      "sha256": "0D8A1684922D433D8E1847D8DE36C9E735A6C746DCCF54BBD3CDCD09B52328CB",
+      "url": "https://raw.githubusercontent.com/wazuhdomtest/wazuh/main/AR/sysmon_configure.cmd"
+    },
+    {
+      "name": "sysmon_configure.ps1",
+      "sha256": "E1828A150BB1E414EDBF33CFE0585237F2289EC7AA56EDE627694E0F01E3B8DC",
+      "url": "https://raw.githubusercontent.com/wazuhdomtest/wazuh/main/AR/sysmon_configure.ps1"
+    }
+  ]
+}
